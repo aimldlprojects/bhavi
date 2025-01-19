@@ -99,56 +99,63 @@ $$
 
 ---
 
-## **2. Multiplication of Fractions**  
-Example:  
+## **2. Multiplication of Fractions**
+
+Example:
+
 $$
 \frac{2}{3} \times \frac{4}{5}
-$$  
-**Solution:**  
-1. Multiply the numerators:  
+$$
+
+**Solution:**
+
+1. Multiply the numerators:
    $$
    2 \times 4 = 8
-   $$  
-2. Multiply the denominators:  
+   $$
+2. Multiply the denominators:
    $$
    3 \times 5 = 15
-   $$  
-3. Combine the results into a fraction:  
+   $$
+3. Combine the results into a fraction:
    $$
    \frac{2}{3} \times \frac{4}{5} = \frac{8}{15}
-   $$  
+   $$
 
 ---
 
-## **3. Division of Fractions**  
-Example:  
+## **3. Division of Fractions**
+
+Example:
+
 $$
 \frac{3}{4} \div \frac{2}{5}
-$$  
-**Solution:**  
+$$
+
+**Solution:**
+
 1. Keep the first fraction and take the reciprocal of the second fraction:
    $$
    \frac{3}{4} \div \frac{2}{5} = \frac{3}{4} \times \frac{5}{2}
-   $$  
+   $$
 2. Multiply the numerators:
    $$
    3 \times 5 = 15
-   $$  
+   $$
 3. Multiply the denominators:
    $$
    4 \times 2 = 8
-   $$  
-4. Combine the results into a fraction:  
+   $$
+4. Combine the results into a fraction:
    $$
    \frac{3}{4} \div \frac{2}{5} = \frac{15}{8}
-   $$  
+   $$
 5. Convert to a mixed number if necessary:
    $$
    \frac{15}{8} = 1\frac{7}{8}
-   $$  
+   $$
 
 ---
-
 
 ## Practice Problems: Addition of Fractions
 
@@ -239,7 +246,6 @@ $$
 $$
 \frac{15}{11} + \frac{6}{7}
 $$
-
 
 ## Answers for the **Addition of fractions**:
 
@@ -341,58 +347,158 @@ $$
 
 ---
 
-
 ## **How to Compare Numbers**
 
 #### **1. Comparing Two Decimal Numbers:**
+
 To compare two decimal numbers, follow these steps:
 
 **Steps:**
+
 1. **Align the decimal points** to ensure the numbers are compared correctly.
 2. **Compare digit by digit** starting from the leftmost side.
 3. If the digits in the decimal places are equal, continue comparing to the right. If one number is longer, treat the shorter number as if it ends with zeros.
 4. **Determine the greater number** based on the place value.
 
 **Example:**
-$$ 3.45 \quad \text{vs.} \quad 3.40 \quad \text{(3.45 is greater)} $$
+
+$$
+3.45 \quad \text{vs.} \quad 3.40 \quad \text{(3.45 is greater)}
+$$
+
+### **1.1 Comparison of Decimal Numbers with Measurement Units**
+
+Here are **20 practice examples** to help you compare decimal numbers in different measurement contexts.
 
 ---
 
-#### **2. Comparing Two Fraction Numbers:**
+#### **1. Rupees and Paise:**
+
+1. ₹5.50 vs ₹5.45
+2. ₹2.75 vs ₹3.10
+3. ₹7.89 vs ₹7.90
+4. ₹0.99 vs ₹1.00
+5. ₹10.05 vs ₹10.50
+
+   **Answer:**
+
+   1. ₹5.50 is greater.
+   2. ₹3.10 is greater.
+   3. ₹7.90 is greater.
+   4. ₹1.00 is greater.
+   5. ₹10.50 is greater.
+
+---
+
+#### **2. Meters and Centimeters:**
+
+1. 1.45 m vs 145 cm
+2. 3.25 m vs 325 cm
+3. 0.80 m vs 80 cm
+4. 2.70 m vs 275 cm
+5. 5.00 m vs 4.95 m
+
+   **Answer:**
+
+   1. They are equal (1.45 m = 145 cm).
+   2. They are equal (3.25 m = 325 cm).
+   3. They are equal (0.80 m = 80 cm).
+   4. 2.70 m is smaller (270 cm < 275 cm).
+   5. 5.00 m is greater.
+
+---
+
+#### **3. Centimeters and Millimeters:**
+
+1. 7.5 cm vs 75 mm
+2. 12.0 cm vs 120 mm
+3. 10.2 cm vs 100 mm
+4. 15.75 cm vs 157 mm
+5. 5.50 cm vs 550 mm
+
+    **Answer:**
+
+    1. They are equal (7.5 cm = 75 mm).
+    2. They are equal (12.0 cm = 120 mm).
+    3. 10.2 cm is greater (102 mm > 100 mm).
+    4. 15.75 cm is greater (157.5 mm > 157 mm).
+    5. 5.50 cm is smaller (55 mm < 550 mm).
+
+---
+
+#### **4. Kilograms and Grams:**
+
+1. 2.50 kg vs 2500 g
+2. 1.75 kg vs 1750 g
+3. 0.95 kg vs 950 g
+4. 3.20 kg vs 3200 g
+5. 4.05 kg vs 4050 g
+
+    **Answer:**
+
+    1. They are equal (2.50 kg = 2500 g).
+    2. They are equal (1.75 kg = 1750 g).
+    3. They are equal (0.95 kg = 950 g).
+    4. They are equal (3.20 kg = 3200 g).
+    5. They are equal (4.05 kg = 4050 g).
+
+---
+
+### **2. Comparing Two Fraction Numbers:**
+
 To compare two fractions, follow these steps:
 
 **Steps:**
+
 1. **Find a common denominator** (preferably the least common denominator).
 2. **Rewrite the fractions** with the common denominator.
 3. **Compare the numerators**—the fraction with the larger numerator is greater.
 
 **Example:**
-$$ \frac{3}{5} \quad \text{vs.} \quad \frac{4}{7} $$
+
+$$
+\frac{3}{5} \quad \text{vs.} \quad \frac{4}{7}
+$$
 
 To compare:
+
 1. Find the common denominator, which is 35.
 2. Rewrite the fractions:
-   $$ \frac{3}{5} = \frac{21}{35}, \quad \frac{4}{7} = \frac{20}{35} $$
-3. Compare the numerators:  
-   $$ 21 > 20 \quad \text{so} \quad \frac{3}{5} > \frac{4}{7} $$
+   $$
+   \frac{3}{5} = \frac{21}{35}, \quad \frac{4}{7} = \frac{20}{35}
+   $$
+3. Compare the numerators:
+   $$
+   21 > 20 \quad \text{so} \quad \frac{3}{5} > \frac{4}{7}
+   $$
 
 ---
 
-#### **3. Comparing One Decimal and One Fraction Number:**
+### **3. Comparing One Decimal and One Fraction Number:**
+
 To compare one decimal number and one fraction number, follow these steps:
 
 **Steps:**
+
 1. **Convert the fraction to a decimal** (if comparing a fraction to a decimal).
 2. Then, compare the two decimal numbers as you would normally compare two decimal numbers.
 
 **Example:**
-$$ 0.75 \quad \text{vs.} \quad \frac{3}{4} $$
+
+$$
+0.75 \quad \text{vs.} \quad \frac{3}{4}
+$$
 
 To compare:
+
 1. Convert $\frac{3}{4}$ to a decimal:
-   $$ \frac{3}{4} = 0.75 $$
+   $$
+   \frac{3}{4} = 0.75
+   $$
 2. Compare the decimal numbers:
-   $$ 0.75 \quad \text{is equal to} \quad 0.75 $$
+   $$
+   0.75 \quad \text{is equal to} \quad 0.75
+   $$
 
 ---
 
@@ -400,40 +506,80 @@ To compare:
 
 #### **1. Comparing Two Decimal Numbers:**
 
-1. $$ 5.67 \quad \text{vs.} \quad 5.78 \quad \text{(5.78 is greater)} $$
-2. $$ 3.14 \quad \text{vs.} \quad 3.12 \quad \text{(3.14 is greater)} $$
-3. $$ 9.34 \quad \text{vs.} \quad 9.33 \quad \text{(9.34 is greater)} $$
-4. $$ 6.89 \quad \text{vs.} \quad 6.9 \quad \text{(6.9 is greater)} $$
-5. $$ 2.01 \quad \text{vs.} \quad 2.10 \quad \text{(2.10 is greater)} $$
+1. $$
+   5.67 \quad \text{vs.} \quad 5.78 \quad \text{(5.78 is greater)}
+   $$
+2. $$
+   3.14 \quad \text{vs.} \quad 3.12 \quad \text{(3.14 is greater)}
+   $$
+3. $$
+   9.34 \quad \text{vs.} \quad 9.33 \quad \text{(9.34 is greater)}
+   $$
+4. $$
+   6.89 \quad \text{vs.} \quad 6.9 \quad \text{(6.9 is greater)}
+   $$
+5. $$
+   2.01 \quad \text{vs.} \quad 2.10 \quad \text{(2.10 is greater)}
+   $$
 
 ---
 
 #### **2. Comparing Two Fraction Numbers:**
 
-6. $$ \frac{3}{4} \quad \text{vs.} \quad \frac{2}{3} \quad \text{(}\frac{3}{4} \text{ is greater)} $$
-7. $$ \frac{5}{6} \quad \text{vs.} \quad \frac{7}{8} \quad \text{(}\frac{7}{8} \text{ is greater)} $$
-8. $$ \frac{1}{2} \quad \text{vs.} \quad \frac{3}{4} \quad \text{(}\frac{3}{4} \text{ is greater)} $$
-9. $$ \frac{9}{10} \quad \text{vs.} \quad \frac{8}{9} \quad \text{(}\frac{9}{10} \text{ is greater)} $$
-10. $$ \frac{3}{7} \quad \text{vs.} \quad \frac{5}{9} \quad \text{(}\frac{5}{9} \text{ is greater)} $$
+6. $$
+   \frac{3}{4} \quad \text{vs.} \quad \frac{2}{3} \quad \text{(}\frac{3}{4} \text{ is greater)}
+   $$
+7. $$
+   \frac{5}{6} \quad \text{vs.} \quad \frac{7}{8} \quad \text{(}\frac{7}{8} \text{ is greater)}
+   $$
+8. $$
+   \frac{1}{2} \quad \text{vs.} \quad \frac{3}{4} \quad \text{(}\frac{3}{4} \text{ is greater)}
+   $$
+9. $$
+   \frac{9}{10} \quad \text{vs.} \quad \frac{8}{9} \quad \text{(}\frac{9}{10} \text{ is greater)}
+   $$
+10. $$
+    \frac{3}{7} \quad \text{vs.} \quad \frac{5}{9} \quad \text{(}\frac{5}{9} \text{ is greater)}
+    $$
 
 ---
 
 #### **3. Comparing One Decimal and One Fraction Number:**
 
-11. $$ 0.75 \quad \text{vs.} \quad \frac{3}{4} \quad \text{(equal)} $$
-12. $$ 0.6 \quad \text{vs.} \quad \frac{2}{3} \quad \text{(}\frac{2}{3} \text{ is greater)} $$
-13. $$ 1.25 \quad \text{vs.} \quad \frac{5}{4} \quad \text{(equal)} $$
-14. $$ 0.8 \quad \text{vs.} \quad \frac{7}{9} \quad \text{(}\frac{7}{9} \text{ is greater)} $$
-15. $$ 0.25 \quad \text{vs.} \quad \frac{1}{5} \quad \text{(equal)} $$
+11. $$
+    0.75 \quad \text{vs.} \quad \frac{3}{4} \quad \text{(equal)}
+    $$
+12. $$
+    0.6 \quad \text{vs.} \quad \frac{2}{3} \quad \text{(}\frac{2}{3} \text{ is greater)}
+    $$
+13. $$
+    1.25 \quad \text{vs.} \quad \frac{5}{4} \quad \text{(equal)}
+    $$
+14. $$
+    0.8 \quad \text{vs.} \quad \frac{7}{9} \quad \text{(}\frac{7}{9} \text{ is greater)}
+    $$
+15. $$
+    0.25 \quad \text{vs.} \quad \frac{1}{5} \quad \text{(equal)}
+    $$
 
 ---
 
 #### **4. Mixed Practice:**
 
-16. $$ 4.32 \quad \text{vs.} \quad \frac{3}{4} \quad \text{(4.32 is greater)} $$
-17. $$ 1.4 \quad \text{vs.} \quad \frac{3}{2} \quad \text{(}\frac{3}{2} \text{ is greater)} $$
-18. $$ 2.5 \quad \text{vs.} \quad \frac{5}{2} \quad \text{(equal)} $$
-19. $$ 3.1 \quad \text{vs.} \quad \frac{7}{2} \quad \text{(}\frac{7}{2} \text{ is greater)} $$
-20. $$ 2.75 \quad \text{vs.} \quad \frac{11}{4} \quad \text{(equal)} $$
+16. $$
+    4.32 \quad \text{vs.} \quad \frac{3}{4} \quad \text{(4.32 is greater)}
+    $$
+17. $$
+    1.4 \quad \text{vs.} \quad \frac{3}{2} \quad \text{(}\frac{3}{2} \text{ is greater)}
+    $$
+18. $$
+    2.5 \quad \text{vs.} \quad \frac{5}{2} \quad \text{(equal)}
+    $$
+19. $$
+    3.1 \quad \text{vs.} \quad \frac{7}{2} \quad \text{(}\frac{7}{2} \text{ is greater)}
+    $$
+20. $$
+    2.75 \quad \text{vs.} \quad \frac{11}{4} \quad \text{(equal)}
+    $$
 
 ---
